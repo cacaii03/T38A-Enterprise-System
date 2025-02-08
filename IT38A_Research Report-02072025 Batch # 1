@@ -49,12 +49,65 @@ implementation strategy for future projects.
 D. Comparative analysis 
 D.1. Similarities & Differences
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|                                  Similarities                                             |                                     Differences                                                      |
-|------------------------------------------------------------------------------------------ |----------------------------------------------------------------------------------------------------- |
-|  Both Coca-Cola and Hershey have a massive global footprint. Coca-Cola operates in over       
-  200 countries, while Hershey has a broad market presence, though it is more concentrated 
-in North America. Both companies leverage international supply chains and distribution networks
-to reach global consumers.
+|                                  Similarities                                                                                Differences                                                         |
+|-----------------------------------------------------------------------------------------  |----------------------------------------------------------------------------------------------------- |
+| Both Coca-Cola and Hershey’s implemented ERP systems (mainly SAP) to streamline operations| Coca-Cola's ERP implementation was gradual and well-planned, while Hershey’s was rushed,             |
+| and integrate functions like finance and supply chain.                                    | leading to significant operational issues.                                                           |
+| They needed systems to manage their global operations and diverse business needs.         | Coca-Cola's ERP streamlined global operations effectively, Hershey’s faced supply chain disruptions  | 
+| Both Coca-Cola and Hershey’s adopted SAP ERP systems to improve business operations, from | and inventory shortages.                                                                             |
+| finance to supply chain management.                                                       | Coca-Cola faced minimal post-implementation issues, while Hershey’s struggled to recover from its    | 
+| Their ERP systems were designed to handle complex,multinational operations with integrated| ERP-related disruptions.                                                                             |
+| solutions for diverse regions and regulatory environments.                                | Coca-Cola’s ERP led to sustained efficiency improvements, while Hershey’s suffered financial losses  | 
+|                                                                                           | and needed extra resources to stabilize its system.                                                  |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+D.2. Critical Success vs. Failure Factors
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 Coca Cola Critical Success                                              |                                  Coca Cola Failure Factors                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Coca-Cola’s methodical, well-planned ERP rollout ensured minimal disruptions and smooth integration     | Some internal resistance to adopting new systems was initially challenging but managed through consistent training   |
+| across global operations.                                                                               | and leadership.                                                                                                      |
+| The company prioritized employee training, ensuring staff could effectively use the new system and adapt| Early stages saw minor data migration challenges, though these were resolved in the long term without major impact.  |
+| to changes.                                                                                             |                                                                                                                      |
+| Coca-Cola worked closely with SAP, leveraging the vendor’s expertise to tailor the system to their needs|                                                                                                                      |
+| and global scale.                                                                                       |                                                                                                                      |
+| Coca-Cola ensured clear communication throughout the organization, helping employees understand the     |                                                                                                                      |
+| benefits and goals of the ERP system.                                                                   |                                                                                                                      |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 Hershey's Critical Success                                              |                                  Hershey's Failure Factors                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hershey’s aimed to improve operations with an ERP system, focusing on supply chain efficiency and cost  | Hershey’s rushed ERP rollout in 1999 led to severe supply chain disruptions and inventory problems.                  |
+| savings.                                                                                                | Hershey did not properly test the system or train staff in time, contributing to implementation issues.              | 
+| Hershey worked with SAP to implement the ERP system but didn't manage the implementation process well.  | Hershey's failure to manage organizational change and communicate effectively during the transition contributed to   |
+| The ERP system was intended to support future expansion, so Hershey aimed for an integrated system to   | the difficulties.                                                                                                    |
+| scale globally.                                                                                         |                                                                                                                      |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+d.3. Key Takeaways & Lessons Learned 
+1. What did the successful case do right?
+     In Coca-Cola’s successful ERP implementation, the company did several things right. First, they took a careful, 
+phased approach to the rollout, planning each stage strategically to avoid overwhelming the organization. They conducted 
+comprehensive testing and piloting before fully deploying the system, ensuring that potential issues were identified and 
+resolved in a controlled environment. Coca-Cola also placed a strong emphasis on training, ensuring employees were 
+well-prepared to use the new system, which helped reduce resistance and foster adoption. Clear communication was a priority,
+with the company keeping all stakeholders informed about the ERP system’s goals and benefits. Furthermore, Coca-Cola worked 
+closely with its ERP vendor, SAP, to tailor the system to meet their global operational needs. Finally, they provided ongoing 
+post-implementation support, making necessary adjustments and optimizations to maximize efficiency. These steps combined 
+allowed Coca-Cola to successfully integrate ERP and significantly improve its global operations.
+2. What went wrong in the failed case?
+   In Hershey’s failed ERP implementation, several key issues contributed to the problems. The company rushed the rollout in 1999, 
+aiming to implement the system quickly without sufficient preparation, which led to significant disruptions. They did not 
+allocate enough time for thorough testing, leaving critical issues unaddressed until the system was already live. 
+Additionally, Hershey’s failed to properly train staff before the system went live, causing confusion and inefficiencies
+when employees struggled to navigate the new system. Poor change management and inadequate communication during the
+transition further fueled resistance and disorganization. The lack of a comprehensive plan for managing the complexities of 
+the ERP system across their supply chain and inventory processes led to widespread disruptions, including product shortages 
+and order fulfillment problems. As a result, Hershey faced a costly recovery phase, losing an estimated $100 million in 
+sales and suffering damage to its reputation.
+3. How Can Future Implementations Avoid Several Failures?
+   To avoid ERP failures, companies should plan thoroughly and use a phased rollout, testing the system before full 
+deployment. Proper employee training and effective change management are essential for smooth adoption. Setting realistic
+timelines and avoiding rushed implementations is crucial, while ongoing post-implementation support ensures any issues are 
+quickly addressed. By following these steps, companies can avoid the pitfalls that led to Hershey's difficulties.
 
 
